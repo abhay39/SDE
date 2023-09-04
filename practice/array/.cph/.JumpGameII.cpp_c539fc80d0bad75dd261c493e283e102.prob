@@ -1,0 +1,1 @@
+{"name":"Local: JumpGameII","url":"h:\\SDE Sheet\\practice\\array\\JumpGameII.cpp","tests":[{"id":1693075762558,"input":"5\n2 3 1 1 4","output":"2"},{"id":1693075775494,"input":"5\n2 3 0 1 4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\SDE Sheet\\practice\\array\\JumpGameII.cpp","group":"local","local":true}

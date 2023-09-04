@@ -1,0 +1,1 @@
+{"name":"Local: sumofAll","url":"h:\\SDE Sheet\\practice\\array\\sumofAll.cpp","tests":[{"id":1692943636772,"input":"5\n1 2 3 4 5","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\SDE Sheet\\practice\\array\\sumofAll.cpp","group":"local","local":true}
